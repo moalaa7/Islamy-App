@@ -19,4 +19,10 @@ class AppAsset {
   static const String mosq = 'assets/images/mosq.png';
   static const String sebha = 'assets/images/Sebha.png';
   static const String hadethCard = 'assets/images/Hadith Card.png';
+
+  static const String onboarding1 = 'assets/images/boarding1.png';
+  static const String onboarding2 = 'assets/images/onboarding2.png';
+  static const String onboarding3 = 'assets/images/onboardig3.png';
+  static const String onboarding4 = 'assets/images/onboardig4.png';
+  static const String onboarding5 = 'assets/images/onboardig5.png';
 }

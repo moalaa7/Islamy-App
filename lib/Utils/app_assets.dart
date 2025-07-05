@@ -25,4 +25,9 @@ class AppAsset {
   static const String onboarding3 = 'assets/images/onboardig3.png';
   static const String onboarding4 = 'assets/images/onboardig4.png';
   static const String onboarding5 = 'assets/images/onboardig5.png';
+  static const String Wave = 'assets/images/wave.png';
+  static const String soundWave = 'assets/images/soundWave.svg';
+  static const String radioMosk = 'assets/images/radioMosk.png';
+  static const String play = 'assets/images/Polygon 2.png';
+  static const String Pause = 'assets/images/Pause.png';
 }

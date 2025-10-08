@@ -18,6 +18,8 @@ class AppAsset {
   static const String details = 'assets/images/detailsBG.png';
   static const String mosq = 'assets/images/mosq.png';
   static const String sebha = 'assets/images/Sebha.png';
+  static const String sebhaHeader = 'assets/images/Mask group.png';
+  static const String sebhaBody = 'assets/images/SebhaBody 1.png';
   static const String hadethCard = 'assets/images/Hadith Card.png';
 
   static const String onboarding1 = 'assets/images/boarding1.png';
@@ -30,4 +32,8 @@ class AppAsset {
   static const String radioMosk = 'assets/images/radioMosk.png';
   static const String play = 'assets/images/Polygon 2.png';
   static const String Pause = 'assets/images/Pause.png';
+  static const String timeContainer = 'assets/images/Group 38.png';
+  static const String eveningAzkar = 'assets/images/eveningAzkar.png';
+  static const String morningAzkar = 'assets/images/morningAzkar.png';
+
 }

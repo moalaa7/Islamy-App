@@ -6,6 +6,8 @@ import 'package:islamy_app/UI/home/tabs/quran/quran_tab.dart';
 import 'package:islamy_app/UI/home/tabs/radio/radio_tab.dart';
 import 'package:islamy_app/UI/home/tabs/sebha/sebha_tab.dart';
 import 'package:islamy_app/UI/home/tabs/time/time_tab.dart';
+import 'package:islamy_app/provider/radio_manger_provider.dart';
+import 'package:provider/provider.dart';
 
 class HomeScreen extends StatefulWidget {
   HomeScreen({super.key});
@@ -30,7 +32,9 @@ class _HomeScreenState extends State<HomeScreen> {
     QuranTab(),
     HadethTab(),
     SebhaTab(),
-    RadioTab(),
+    ChangeNotifierProvider(
+      create:(context) => RadioMangerProvider() ,
+      child: RadioTab()),
     TimeTab()
   ];
 

@@ -4,7 +4,7 @@ import 'package:islamy_app/Utils/app_color.dart';
 import 'package:islamy_app/Utils/app_style.dart';
 
 class RadioTab extends StatefulWidget {
-  RadioTab({super.key});
+ const RadioTab({super.key});
 
   @override
   State<RadioTab> createState() => _RadioTabState();

@@ -8,7 +8,6 @@ You can watch a demo of the Islamy App in action here:
 
 [[Islamy App Demo]](https://youtu.be/WkOqmpj0xAM?si=pOqwBXoOD9BtNwL3)
 
-Replace `VIDEO_ID` with your actual YouTube video ID or link. If you have a local video or another platform, you can update the link accordingly.
 
 ## Features
 
